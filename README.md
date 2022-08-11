@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @niacortes, a UX Designer.
+- 👀 I’m interested in weird and amazing sites.
+- 🌱 I’m currently learning CSS updates and tricks. 
+- 💞️ I’d like to collaborate as a UX consultant.
